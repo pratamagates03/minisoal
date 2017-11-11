@@ -1,1 +1,3 @@
 # minisoal
+
+soal-soal latihan
