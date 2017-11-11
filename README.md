@@ -1,3 +1,3 @@
 # minisoal
 
-soal-soal latihan
+soal-soal latihan dan tes c++
